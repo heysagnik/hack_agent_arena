@@ -1,0 +1,15 @@
+{"method": "get", "url": "/supervisor/profile", "data": {}}
+{"method": "get", "url": "/supervisor/account_passwords", "data": {}}
+{"method": "post", "url": "/amazon/auth/token", "data": {"username": "kat_simp@gmail.com", "password": "!#i62}T"}}
+{"method": "post", "url": "/phone/auth/token", "data": {"username": "6727300099", "password": "4_%505T"}}
+{"method": "post", "url": "/file_system/auth/token", "data": {"username": "kat_simp@gmail.com", "password": "0rE1V#a"}}
+{"method": "post", "url": "/spotify/auth/token", "data": {"username": "kat_simp@gmail.com", "password": "aHOM-+d"}}
+{"method": "post", "url": "/venmo/auth/token", "data": {"username": "kat_simp@gmail.com", "password": "B)]&d{u"}}
+{"method": "post", "url": "/gmail/auth/token", "data": {"username": "kat_simp@gmail.com", "password": "u%TW7ah"}}
+{"method": "post", "url": "/splitwise/auth/token", "data": {"username": "kat_simp@gmail.com", "password": "]aOK-3Z"}}
+{"method": "post", "url": "/simple_note/auth/token", "data": {"username": "kat_simp@gmail.com", "password": "Q=srh$w"}}
+{"method": "post", "url": "/todoist/auth/token", "data": {"username": "kat_simp@gmail.com", "password": "ffqROlZ"}}
+{"method": "get", "url": "/gmail/drafts", "data": {"access_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJnbWFpbCtrYXRfc2ltcEBnbWFpbC5jb20iLCJleHAiOjE2ODQ0MTI1MTZ9.qwAz2Ip3OGokU_ppLHSLp-2zkrRVvqPCuexi9EHqiYQ"}}
+{"method": "delete", "url": "/gmail/drafts/27", "data": {"access_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJnbWFpbCtrYXRfc2ltcEBnbWFpbC5jb20iLCJleHAiOjE2ODQ0MTI1MTZ9.qwAz2Ip3OGokU_ppLHSLp-2zkrRVvqPCuexi9EHqiYQ"}}
+{"method": "delete", "url": "/gmail/drafts/85", "data": {"access_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJnbWFpbCtrYXRfc2ltcEBnbWFpbC5jb20iLCJleHAiOjE2ODQ0MTI1MTZ9.qwAz2Ip3OGokU_ppLHSLp-2zkrRVvqPCuexi9EHqiYQ"}}
+{"method": "post", "url": "/supervisor/message", "data": {}}

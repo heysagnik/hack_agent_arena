@@ -1,0 +1,12 @@
+{
+    "file_system": {
+        "File": 3,
+        "Directory": 4
+    },
+    "gmail": {
+        "Attachment": 2
+    },
+    "amazon": {
+        "CartEntry": 48
+    }
+}

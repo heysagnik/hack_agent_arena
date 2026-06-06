@@ -1,0 +1,14 @@
+{"method": "get", "url": "/supervisor/profile", "data": {}}
+{"method": "get", "url": "/supervisor/account_passwords", "data": {}}
+{"method": "post", "url": "/amazon/auth/token", "data": {"username": "kevin.blac@gmail.com", "password": "@#@wvsw"}}
+{"method": "post", "url": "/phone/auth/token", "data": {"username": "3654328626", "password": "vK6UAEL"}}
+{"method": "post", "url": "/file_system/auth/token", "data": {"username": "kevin.blac@gmail.com", "password": "]NVpauc"}}
+{"method": "post", "url": "/spotify/auth/token", "data": {"username": "kevin.blac@gmail.com", "password": "@BfHM4T"}}
+{"method": "post", "url": "/venmo/auth/token", "data": {"username": "kevin.blac@gmail.com", "password": "+){p}(9"}}
+{"method": "post", "url": "/gmail/auth/token", "data": {"username": "kevin.blac@gmail.com", "password": "W%wsM+p"}}
+{"method": "post", "url": "/splitwise/auth/token", "data": {"username": "kevin.blac@gmail.com", "password": ")^_ixpD"}}
+{"method": "post", "url": "/simple_note/auth/token", "data": {"username": "kevin.blac@gmail.com", "password": "85${X=c"}}
+{"method": "post", "url": "/todoist/auth/token", "data": {"username": "kevin.blac@gmail.com", "password": "eRlD2Ci"}}
+{"method": "get", "url": "/amazon/prime/subscriptions", "data": {"access_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJhbWF6b24ra2V2aW4uYmxhY0BnbWFpbC5jb20iLCJleHAiOjE2ODQ0NTUzMDh9.1P89yNjCShVO9e8-OFf8aHoZzg3QXi39tTmEfCB4Cac"}}
+{"method": "get", "url": "/phone/date_time", "data": {"access_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJwaG9uZSszNjU0MzI4NjI2IiwiZXhwIjoxNjg0NDU1OTUxfQ.vjFMrBL5OipQwYvXRWX7jGqpHPcr3Rpri1BIvUzgxRI"}}
+{"method": "post", "url": "/supervisor/message", "data": {"answer": 10}}

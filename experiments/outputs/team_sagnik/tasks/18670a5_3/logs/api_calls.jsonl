@@ -1,0 +1,28 @@
+{"method": "get", "url": "/supervisor/profile", "data": {}}
+{"method": "get", "url": "/supervisor/account_passwords", "data": {}}
+{"method": "post", "url": "/amazon/auth/token", "data": {"username": "dav.mart@gmail.com", "password": "5+=z(GQ"}}
+{"method": "post", "url": "/phone/auth/token", "data": {"username": "7228796993", "password": "QsxhMHd"}}
+{"method": "post", "url": "/file_system/auth/token", "data": {"username": "dav.mart@gmail.com", "password": "YUmI+0Z"}}
+{"method": "post", "url": "/spotify/auth/token", "data": {"username": "dav.mart@gmail.com", "password": "s]C22hx"}}
+{"method": "post", "url": "/venmo/auth/token", "data": {"username": "dav.mart@gmail.com", "password": "=#dOpGE"}}
+{"method": "post", "url": "/gmail/auth/token", "data": {"username": "dav.mart@gmail.com", "password": "Ubom@Nj"}}
+{"method": "post", "url": "/splitwise/auth/token", "data": {"username": "dav.mart@gmail.com", "password": "1IfBZBx"}}
+{"method": "post", "url": "/simple_note/auth/token", "data": {"username": "dav.mart@gmail.com", "password": "2$=C=WK"}}
+{"method": "post", "url": "/todoist/auth/token", "data": {"username": "dav.mart@gmail.com", "password": "vRf+92J"}}
+{"method": "get", "url": "/simple_note/notes", "data": {"query": "meeting", "access_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJzaW1wbGVfbm90ZStkYXYubWFydEBnbWFpbC5jb20iLCJleHAiOjE2ODQ2NzcxOTF9.DWz6Y1Bx6ytzcoiPlactc7vrJNsPYMI4c3kWk0TNpTc"}}
+{"method": "get", "url": "/simple_note/notes/3084", "data": {"access_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJzaW1wbGVfbm90ZStkYXYubWFydEBnbWFpbC5jb20iLCJleHAiOjE2ODQ2NzcxOTF9.DWz6Y1Bx6ytzcoiPlactc7vrJNsPYMI4c3kWk0TNpTc"}}
+{"method": "get", "url": "/phone/date_time", "data": {"access_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJwaG9uZSs3MjI4Nzk2OTkzIiwiZXhwIjoxNjg0Njc3MDk0fQ.FaE7RMv3qepnwyBbw5CVCGrtasRPYiBpeNpg6NE_1_U"}}
+{"method": "get", "url": "/phone/date_time", "data": {"access_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJwaG9uZSs3MjI4Nzk2OTkzIiwiZXhwIjoxNjg0Njc3MDk0fQ.FaE7RMv3qepnwyBbw5CVCGrtasRPYiBpeNpg6NE_1_U"}}
+{"method": "post", "url": "/gmail/drafts", "data": {"recipient_email_addresses": ["Paul", "Denise", "Jeffery"], "subject": "Meeting 'Leadership Training Session' Starting Soon", "body": "", "scheduled_send_at": "2023-05-23|13:40:00", "access_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJnbWFpbCtkYXYubWFydEBnbWFpbC5jb20iLCJleHAiOjE2ODQ2NzY4Njl9.c3gUi0nQcCIpf__yQhsavbkfxBWvnRpzeJxVyv_lAJg"}}
+{"method": "get", "url": "/phone/contacts", "data": {"query": "", "access_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJwaG9uZSs3MjI4Nzk2OTkzIiwiZXhwIjoxNjg0Njc3MDk0fQ.FaE7RMv3qepnwyBbw5CVCGrtasRPYiBpeNpg6NE_1_U"}}
+{"method": "get", "url": "/phone/date_time", "data": {"access_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJwaG9uZSs3MjI4Nzk2OTkzIiwiZXhwIjoxNjg0Njc3MDk0fQ.FaE7RMv3qepnwyBbw5CVCGrtasRPYiBpeNpg6NE_1_U"}}
+{"method": "get", "url": "/phone/contacts", "data": {"query": "", "access_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJwaG9uZSs3MjI4Nzk2OTkzIiwiZXhwIjoxNjg0Njc3MDk0fQ.FaE7RMv3qepnwyBbw5CVCGrtasRPYiBpeNpg6NE_1_U"}}
+{"method": "get", "url": "/phone/date_time", "data": {"access_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJwaG9uZSs3MjI4Nzk2OTkzIiwiZXhwIjoxNjg0Njc3MDk0fQ.FaE7RMv3qepnwyBbw5CVCGrtasRPYiBpeNpg6NE_1_U"}}
+{"method": "post", "url": "/gmail/drafts", "data": {"recipient_email_addresses": [], "subject": "Meeting 'Leadership Training Session' Starting Soon", "body": "", "scheduled_send_at": "2023-05-23|13:40:00", "access_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJnbWFpbCtkYXYubWFydEBnbWFpbC5jb20iLCJleHAiOjE2ODQ2NzY4Njl9.c3gUi0nQcCIpf__yQhsavbkfxBWvnRpzeJxVyv_lAJg"}}
+{"method": "get", "url": "/phone/contacts", "data": {"query": "", "access_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJwaG9uZSs3MjI4Nzk2OTkzIiwiZXhwIjoxNjg0Njc3MDk0fQ.FaE7RMv3qepnwyBbw5CVCGrtasRPYiBpeNpg6NE_1_U"}}
+{"method": "get", "url": "/phone/date_time", "data": {"access_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJwaG9uZSs3MjI4Nzk2OTkzIiwiZXhwIjoxNjg0Njc3MDk0fQ.FaE7RMv3qepnwyBbw5CVCGrtasRPYiBpeNpg6NE_1_U"}}
+{"method": "get", "url": "/phone/date_time", "data": {"access_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJwaG9uZSs3MjI4Nzk2OTkzIiwiZXhwIjoxNjg0Njc3MDk0fQ.FaE7RMv3qepnwyBbw5CVCGrtasRPYiBpeNpg6NE_1_U"}}
+{"method": "get", "url": "/phone/date_time", "data": {"access_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJwaG9uZSs3MjI4Nzk2OTkzIiwiZXhwIjoxNjg0Njc3MDk0fQ.FaE7RMv3qepnwyBbw5CVCGrtasRPYiBpeNpg6NE_1_U"}}
+{"method": "get", "url": "/phone/date_time", "data": {"access_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJwaG9uZSs3MjI4Nzk2OTkzIiwiZXhwIjoxNjg0Njc3MDk0fQ.FaE7RMv3qepnwyBbw5CVCGrtasRPYiBpeNpg6NE_1_U"}}
+{"method": "get", "url": "/phone/date_time", "data": {"access_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJwaG9uZSs3MjI4Nzk2OTkzIiwiZXhwIjoxNjg0Njc3MDk0fQ.FaE7RMv3qepnwyBbw5CVCGrtasRPYiBpeNpg6NE_1_U"}}
+{"method": "post", "url": "/supervisor/message", "data": {}}

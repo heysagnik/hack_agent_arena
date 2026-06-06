@@ -1,0 +1,34 @@
+{"method": "get", "url": "/supervisor/profile", "data": {}}
+{"method": "get", "url": "/supervisor/account_passwords", "data": {}}
+{"method": "post", "url": "/amazon/auth/token", "data": {"username": "ce-maldonado@gmail.com", "password": "U4ndtM1"}}
+{"method": "post", "url": "/phone/auth/token", "data": {"username": "3947324235", "password": "-R0_%58"}}
+{"method": "post", "url": "/file_system/auth/token", "data": {"username": "ce-maldonado@gmail.com", "password": "7w[90e6"}}
+{"method": "post", "url": "/spotify/auth/token", "data": {"username": "ce-maldonado@gmail.com", "password": "!Y@Bv&B"}}
+{"method": "post", "url": "/venmo/auth/token", "data": {"username": "ce-maldonado@gmail.com", "password": "8^x3#y8"}}
+{"method": "post", "url": "/gmail/auth/token", "data": {"username": "ce-maldonado@gmail.com", "password": "5klQTSt"}}
+{"method": "post", "url": "/splitwise/auth/token", "data": {"username": "ce-maldonado@gmail.com", "password": "sym1-bX"}}
+{"method": "post", "url": "/simple_note/auth/token", "data": {"username": "ce-maldonado@gmail.com", "password": "nT]NcWO"}}
+{"method": "post", "url": "/todoist/auth/token", "data": {"username": "ce-maldonado@gmail.com", "password": "d3bqrcC"}}
+{"method": "get", "url": "/gmail/email_threads/category/inbox", "data": {"query": "meeting canceled", "access_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJnbWFpbCtjZS1tYWxkb25hZG9AZ21haWwuY29tIiwiZXhwIjoxNjg0NzQ3NDYyfQ.gn6n3x7sGeaotX469FzBb6XPoLaatRASYxiwp_1EeVE"}}
+{"method": "get", "url": "/gmail/emails/20868", "data": {"access_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJnbWFpbCtjZS1tYWxkb25hZG9AZ21haWwuY29tIiwiZXhwIjoxNjg0NzQ3NDYyfQ.gn6n3x7sGeaotX469FzBb6XPoLaatRASYxiwp_1EeVE"}}
+{"method": "get", "url": "/gmail/emails/20875", "data": {"access_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJnbWFpbCtjZS1tYWxkb25hZG9AZ21haWwuY29tIiwiZXhwIjoxNjg0NzQ3NDYyfQ.gn6n3x7sGeaotX469FzBb6XPoLaatRASYxiwp_1EeVE"}}
+{"method": "get", "url": "/gmail/emails/20876", "data": {"access_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJnbWFpbCtjZS1tYWxkb25hZG9AZ21haWwuY29tIiwiZXhwIjoxNjg0NzQ3NDYyfQ.gn6n3x7sGeaotX469FzBb6XPoLaatRASYxiwp_1EeVE"}}
+{"method": "get", "url": "/phone/alarms", "data": {"access_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJwaG9uZSszOTQ3MzI0MjM1IiwiZXhwIjoxNjg0NzQ3Njg3fQ.BwnsTn1oB1BXvanrApsAyPClg6B-Fsjh-27HlSthTHo"}}
+{"method": "get", "url": "/gmail/emails/20868", "data": {"access_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJnbWFpbCtjZS1tYWxkb25hZG9AZ21haWwuY29tIiwiZXhwIjoxNjg0NzQ3NDYyfQ.gn6n3x7sGeaotX469FzBb6XPoLaatRASYxiwp_1EeVE"}}
+{"method": "get", "url": "/gmail/emails/20875", "data": {"access_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJnbWFpbCtjZS1tYWxkb25hZG9AZ21haWwuY29tIiwiZXhwIjoxNjg0NzQ3NDYyfQ.gn6n3x7sGeaotX469FzBb6XPoLaatRASYxiwp_1EeVE"}}
+{"method": "get", "url": "/gmail/emails/20876", "data": {"access_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJnbWFpbCtjZS1tYWxkb25hZG9AZ21haWwuY29tIiwiZXhwIjoxNjg0NzQ3NDYyfQ.gn6n3x7sGeaotX469FzBb6XPoLaatRASYxiwp_1EeVE"}}
+{"method": "get", "url": "/gmail/emails/20868", "data": {"access_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJnbWFpbCtjZS1tYWxkb25hZG9AZ21haWwuY29tIiwiZXhwIjoxNjg0NzQ3NDYyfQ.gn6n3x7sGeaotX469FzBb6XPoLaatRASYxiwp_1EeVE"}}
+{"method": "get", "url": "/gmail/emails/20875", "data": {"access_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJnbWFpbCtjZS1tYWxkb25hZG9AZ21haWwuY29tIiwiZXhwIjoxNjg0NzQ3NDYyfQ.gn6n3x7sGeaotX469FzBb6XPoLaatRASYxiwp_1EeVE"}}
+{"method": "get", "url": "/gmail/emails/20876", "data": {"access_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJnbWFpbCtjZS1tYWxkb25hZG9AZ21haWwuY29tIiwiZXhwIjoxNjg0NzQ3NDYyfQ.gn6n3x7sGeaotX469FzBb6XPoLaatRASYxiwp_1EeVE"}}
+{"method": "get", "url": "/gmail/emails/20868", "data": {"access_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJnbWFpbCtjZS1tYWxkb25hZG9AZ21haWwuY29tIiwiZXhwIjoxNjg0NzQ3NDYyfQ.gn6n3x7sGeaotX469FzBb6XPoLaatRASYxiwp_1EeVE"}}
+{"method": "get", "url": "/gmail/emails/20875", "data": {"access_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJnbWFpbCtjZS1tYWxkb25hZG9AZ21haWwuY29tIiwiZXhwIjoxNjg0NzQ3NDYyfQ.gn6n3x7sGeaotX469FzBb6XPoLaatRASYxiwp_1EeVE"}}
+{"method": "get", "url": "/gmail/emails/20876", "data": {"access_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJnbWFpbCtjZS1tYWxkb25hZG9AZ21haWwuY29tIiwiZXhwIjoxNjg0NzQ3NDYyfQ.gn6n3x7sGeaotX469FzBb6XPoLaatRASYxiwp_1EeVE"}}
+{"method": "get", "url": "/gmail/emails/20868", "data": {"access_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJnbWFpbCtjZS1tYWxkb25hZG9AZ21haWwuY29tIiwiZXhwIjoxNjg0NzQ3NDYyfQ.gn6n3x7sGeaotX469FzBb6XPoLaatRASYxiwp_1EeVE"}}
+{"method": "get", "url": "/gmail/emails/20875", "data": {"access_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJnbWFpbCtjZS1tYWxkb25hZG9AZ21haWwuY29tIiwiZXhwIjoxNjg0NzQ3NDYyfQ.gn6n3x7sGeaotX469FzBb6XPoLaatRASYxiwp_1EeVE"}}
+{"method": "get", "url": "/gmail/emails/20876", "data": {"access_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJnbWFpbCtjZS1tYWxkb25hZG9AZ21haWwuY29tIiwiZXhwIjoxNjg0NzQ3NDYyfQ.gn6n3x7sGeaotX469FzBb6XPoLaatRASYxiwp_1EeVE"}}
+{"method": "get", "url": "/gmail/emails/20868", "data": {"access_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJnbWFpbCtjZS1tYWxkb25hZG9AZ21haWwuY29tIiwiZXhwIjoxNjg0NzQ3NDYyfQ.gn6n3x7sGeaotX469FzBb6XPoLaatRASYxiwp_1EeVE"}}
+{"method": "get", "url": "/gmail/emails/20875", "data": {"access_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJnbWFpbCtjZS1tYWxkb25hZG9AZ21haWwuY29tIiwiZXhwIjoxNjg0NzQ3NDYyfQ.gn6n3x7sGeaotX469FzBb6XPoLaatRASYxiwp_1EeVE"}}
+{"method": "get", "url": "/gmail/emails/20876", "data": {"access_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJnbWFpbCtjZS1tYWxkb25hZG9AZ21haWwuY29tIiwiZXhwIjoxNjg0NzQ3NDYyfQ.gn6n3x7sGeaotX469FzBb6XPoLaatRASYxiwp_1EeVE"}}
+{"method": "get", "url": "/phone/contacts", "data": {"query": "Catherine Smith", "access_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJwaG9uZSszOTQ3MzI0MjM1IiwiZXhwIjoxNjg0NzQ3Njg3fQ.BwnsTn1oB1BXvanrApsAyPClg6B-Fsjh-27HlSthTHo"}}
+{"method": "get", "url": "/phone/contacts", "data": {"query": "Alex White", "access_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJwaG9uZSszOTQ3MzI0MjM1IiwiZXhwIjoxNjg0NzQ3Njg3fQ.BwnsTn1oB1BXvanrApsAyPClg6B-Fsjh-27HlSthTHo"}}
+{"method": "post", "url": "/supervisor/message", "data": {}}

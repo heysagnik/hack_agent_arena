@@ -1,3 +1,4 @@
 appworld
-litellm
 python-dotenv
+openai>=1.0
+hydradb-sdk>=2,<3

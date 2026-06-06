@@ -1,4 +1,20 @@
-# ://agent_arena
+# team_sagnik — ://agent_arena submission
+
+**Team:** sagnik  
+**Model:** `meta-llama/llama-3.3-70b-instruct` (via OpenRouter)  
+**Self-reported TGC / SGC:** 20.0 / 20.0  
+**HydraDB used:** yes — API-doc retrieval (`appworld-v1` tenant) + cross-task memory (`appworld-task-memory` tenant)
+
+## Architecture
+
+ReAct loop (Thought → Code → Observation) with:
+- **Bootstrap**: pre-logs in all required apps before the LLM loop starts
+- **HydraDB pre-grounding**: queries API docs relevant to the task before the first LLM turn
+- **Ground-truth API menu**: built from `data/api_docs/function_calling/*.json` — injected into every prompt so the model sees real API names only
+- **Paper-style context pruning**: keeps all assistant turns, collapses old observations to `[NOT SHOWN FOR BREVITY]`, 20K char trajectory budget
+- **Early-stop**: `MAX_FAIL_STREAK=12` consecutive error turns, `MAX_CODE_REPEATS=3` identical code blocks
+
+## How to run
 
 Build an **autonomous AI agent** that completes everyday-app tasks in
 [AppWorld](https://appworld.dev). You are ranked by **Task Goal Completion (TGC)** —
